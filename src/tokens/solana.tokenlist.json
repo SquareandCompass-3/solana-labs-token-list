@@ -94165,6 +94165,17 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "H1HuucowhaTiiaKVJtDn32HixFdVh9Wv9w7KZTH971SJ",
+      "symbol": "SCB",
+      "name": "Scuba",
+      "decimals": 0,
+      "logoURI": "https://github.com/ASTRONAU2023/SCUBAA/blob/main/Scuba%20logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
