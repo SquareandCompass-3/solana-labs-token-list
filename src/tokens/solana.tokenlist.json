@@ -94165,6 +94165,17 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HavmBpqaq68zWQ68rxau5ELr5ghiVxWSAorh1K6wyNi6",
+      "symbol": "AST",
+      "name": "Astronut",
+      "decimals": 0,
+      "logoURI": "https://github.com/ASTRONAU2023/ASTRONUT-TOKEN-CRYPTO/blob/main/asronaut.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
